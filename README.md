@@ -9,7 +9,7 @@ Navigate to the folder corresponding to the tool you need. Then, you have two op
 
 ## Docker cheatsheet
 Here are some useful commands in case you've forgotten how to build & run docker containers:
-- Build an image: `docker build -t <container_name> .`
+- Build an image: Navigate to the desired Dockerfile directory, then `docker build -t <container_name> .`
 - Running an image: `docker run -it <container> /bin/bash`
     - `--gpus=all` to enable GPU access
 
