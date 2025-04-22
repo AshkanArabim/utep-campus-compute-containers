@@ -1,1 +1,1 @@
-Docker Hub repo: `ashkanarabim/pytorch-pyg-xtb-dgl`
+Docker Hub repo: https://hub.docker.com/r/ashkanarabim/pytorch-pyg-xtb-dgl
